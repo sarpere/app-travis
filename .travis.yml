@@ -9,4 +9,4 @@ deploy:
   keep_history: true
   target_branch: master
   on:
-    branch: main
+    branch: master
