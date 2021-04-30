@@ -10,4 +10,6 @@ deploy:
   on:
     branch: main
   local-dir: ./build
+git:
+  depth: 1
 script: npm run build
