@@ -9,7 +9,7 @@ deploy:
   keep_history: true
   repo: sarpere.github.io
   on:
-    branch: main
+    branch: master
   local-dir: ./build
 git:
   depth: 1
